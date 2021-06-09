@@ -1,6 +1,6 @@
 Hi!
 
-My name is Andrea (user: WinterWind33). I'm currently a physics BSc student and i love doing physics and go beyond nature misteries but i'm also a computer enthusiast and i'm learning 
+My name is Andrea (user: WinterWind33). I'm currently a physics BSc student and i love doing physics and go beyond nature mysteries but i'm also a computer enthusiast and i'm learning 
 programming things all by myself (outside those asserted in the physics course).
 
 I love mixing physics and programming because i think that these two are deeply connected by the logic behind solving problems of any kind. 
